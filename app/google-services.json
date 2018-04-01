@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "138353608204",
+    "firebase_url": "https://pangestutitan1202154211modul6.firebaseio.com",
+    "project_id": "pangestutitan1202154211modul6",
+    "storage_bucket": "pangestutitan1202154211modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138353608204:android:4cfb156eefc215fb",
+        "android_client_info": {
+          "package_name": "com.example.pangestutitan.pangestutitan_1202154211_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138353608204-angjrlh4pptv070tg70sn7ijc03b8vf2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pangestutitan.pangestutitan_1202154211_modul6",
+            "certificate_hash": "039a8b4e0a4c47cbb06aebc602c2a86aaf4424e3"
+          }
+        },
+        {
+          "client_id": "138353608204-bb6ps4k6hcio8ck7plv42kjh0srak6q5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUK6wMehGMu47xmlfXGzuFeR8l3IOuJ2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138353608204-bb6ps4k6hcio8ck7plv42kjh0srak6q5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
